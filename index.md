@@ -5,7 +5,7 @@
 ## 2019 - 2020 
 
 ### Super Toy Cars 2
-<img src="images/SuperToyCars2.jpg?raw=true"/>
+
 <img src="images/Loading_Diner01-02.jpg?raw=true"/>
 <img src="images/Loading_Diner02-03.jpg?raw=true"/>
 <img src="images/Loading_Nursery02-02.jpg?raw=true"/>
