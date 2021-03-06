@@ -2,13 +2,13 @@
 
 ---
 
-### 2019 - 2020 
+## 2019 - 2020 
 
 [Super Toy Cars 2](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Knights of Pi](/pdf/sample_presentation.pdf)
+###Knights of Pi
 <img src="images/KoP.gif?raw=true"/>
 
 ---
