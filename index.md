@@ -31,7 +31,7 @@
 
 ### The Heart of Polidori's Manor
 <img src="images/Polidori01.jpg?raw=true"/>
-<img src="images/Polidori02.jpg?raw=true"/>
+<img src="images/Polidori02.png?raw=true"/>
 
 - Level design & modeling, prop modeling.
 
