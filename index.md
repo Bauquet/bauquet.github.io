@@ -23,7 +23,7 @@
 ### Escher Stairs Tribute
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Sketchfab] (https://sketchfab.com/3d-models/eschers-stairs-737369afba2040e689d34a5124ba98b7)
+[Sketchfab](https://sketchfab.com/3d-models/eschers-stairs-737369afba2040e689d34a5124ba98b7)
 
 ---
 
