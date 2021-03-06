@@ -43,8 +43,8 @@
 - Level design and prop modeling & texturing.
 
 ### Miss Atom
-<img src="images/Polidori01.jpg?raw=true"/>
-<img src="images/Polidori02.jpg?raw=true"/>
+<img src="images/MissAtom01.png?raw=true"/>
+<img src="images/MissAtom02.png?raw=true"/>
 
 - Level design and prop modeling & texturing.
 
