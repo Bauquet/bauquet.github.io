@@ -68,7 +68,7 @@
 ## 2016 - 2017
 
 ### Quack Attack
-<img src="images/QuackAttack.gif?raw=true"/>
+<img src="images/QuackAttackGif.gif?raw=true"/>
 
 - Game design and sprite creation.
 
