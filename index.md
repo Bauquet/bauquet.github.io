@@ -5,9 +5,12 @@
 ## 2019 - 2020 
 
 ### Super Toy Cars 2
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SuperToyCars2.jpg?raw=true"/>
+<img src="images/Loading_Diner01-02.jpg?raw=true"/>
+<img src="images/Loading_Diner02-03.jpg?raw=true"/>
+<img src="images/Loading_Nursery02-02.jpg?raw=true"/>
 
-- First published game. [Steam](https://store.steampowered.com/app/1028840/Super_Toy_Cars_2/)
+- First published game ([Steam page])(https://store.steampowered.com/app/1028840/Super_Toy_Cars_2/).
 - Level design internship.
 
 ---
