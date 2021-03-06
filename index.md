@@ -59,7 +59,7 @@
 - Code and modeling.
 
 ### Pop Wars
-<img src="images/PopWars.jpng?raw=true"/>
+<img src="images/PopWars.png?raw=true"/>
 
 - Solo game.
 
