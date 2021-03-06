@@ -21,7 +21,7 @@
 
 
 ### Escher Stairs Tribute
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Escher02.png?raw=true"/>
 
 [Sketchfab](https://sketchfab.com/3d-models/eschers-stairs-737369afba2040e689d34a5124ba98b7)
 
@@ -30,18 +30,21 @@
 ## 2018 - 2019
 
 ### The Heart of Polidori's Manor
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Polidori01.jpg?raw=true"/>
+<img src="images/Polidori02.jpg?raw=true"/>
 
 - Level design & modeling, prop modeling.
 
 
 ### Omni
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Omni01.png?raw=true"/>
+<img src="images/Omni02.png?raw=true"/>
 
 - Level design and prop modeling & texturing.
 
 ### Miss Atom
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Polidori01.jpg?raw=true"/>
+<img src="images/Polidori02.jpg?raw=true"/>
 
 - Level design and prop modeling & texturing.
 
@@ -50,13 +53,13 @@
 ## 2017 - 2018
 
 ### Barcelona AR
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BarcelonaAR.png?raw=true"/>
 
 - AR internship.
 - Code and modeling.
 
 ### Pop Wars
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PopWars.jpng?raw=true"/>
 
 - Solo game.
 
@@ -65,7 +68,7 @@
 ## 2016 - 2017
 
 ### Quack Attack
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/QuackAttack.gif?raw=true"/>
 
 - Game design and sprite creation.
 
