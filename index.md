@@ -10,34 +10,66 @@
 <img src="images/Loading_Diner02-03.jpg?raw=true"/>
 <img src="images/Loading_Nursery02-02.jpg?raw=true"/>
 
-- First published game ([Steam page])(https://store.steampowered.com/app/1028840/Super_Toy_Cars_2/).
+- First published game. [Steam page](https://store.steampowered.com/app/1028840/Super_Toy_Cars_2/)
 - Level design internship.
 
----
+
 ### Knights of Pi
 <img src="images/KoP.gif?raw=true"/>
 
-- Game & Interface design for a mathematics serious game aimed at high-schoolers
+- Game & Interface design.
 
----
-[Project 3 Title](http://example.com/)
+
+### Escher Stairs Tribute
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Sketchfab] (https://sketchfab.com/3d-models/eschers-stairs-737369afba2040e689d34a5124ba98b7)
 
 ---
 
+## 2018 - 2019
+
+### The Heart of Polidori's Manor
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- Level design & modeling, prop modeling.
 
 
+### Omni
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- Level design and prop modeling & texturing.
+
+### Miss Atom
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- Level design and prop modeling & texturing.
 
 ---
+
+## 2017 - 2018
+
+### Barcelona AR
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- AR internship.
+- Code and modeling.
+
+### Pop Wars
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- Solo game.
+
+---
+
+## 2016 - 2017
+
+### Quack Attack
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- Game design and sprite creation.
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
